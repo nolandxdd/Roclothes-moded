@@ -17,7 +17,6 @@
 	
 	/ ＲＯＣＬＯＴＨＥＳ
 	Version - 0.7.3:lerp()
-	Link - discord.gg/HBzvWE6Rp3
 	
 	| RoClothes Is Exploiting Script, Allowing Player To Have Nude BodyParts/Clothes
 	Can Be Use On Any Executor
@@ -28,14 +27,10 @@
 	| 𝐔𝐒𝐄 𝐀𝐓 𝐘𝐎𝐔𝐑 𝐎𝐖𝐍 𝐑𝐈𝐒𝐊
 	| 𝐖𝐎𝐑𝐊 𝐈𝐍 𝐏𝐑𝐎𝐆𝐑𝐄𝐒𝐒
 	
-	The original developer of RoClothes is no longer working on this script.
-	This is a MODDED version of this script that might or might not be updated.
-	If you know who the creator of this mod is, feel free to request or suggest some things.
-	
 	
 	
 	original version 0.7
-	local version 0.7.3:lerp()
+	local version 0.7.3
 	
 	
 
