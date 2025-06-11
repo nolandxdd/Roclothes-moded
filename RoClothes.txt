@@ -422,7 +422,7 @@ function RoClothes(Player)
 	local TS = game:GetService("TweenService")
 	local MPS = game:GetService("MarketplaceService")
 
-	local CVersion = "0.7.3:moded()"
+	local CVersion = "0.7.3:lerp()"
 
 	local Method = 1
 	local MaxMethod = 3
