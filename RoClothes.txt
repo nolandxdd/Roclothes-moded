@@ -422,7 +422,7 @@ function RoClothes(Player)
 	local TS = game:GetService("TweenService")
 	local MPS = game:GetService("MarketplaceService")
 
-	local CVersion = "0.7.3:lerp()"
+	local CVersion = "0.7.3:moded()"
 
 	local Method = 1
 	local MaxMethod = 3
@@ -11007,7 +11007,7 @@ function RoClothes(Player)
 			local CurrentPosition = UIS:GetMouseLocation() - MouseDownStart
 			local ToChangePosition = UDim2.new(GuiPositionStart.X.Scale, GuiPositionStart.X.Offset + CurrentPosition.X, GuiPositionStart.Y.Scale, GuiPositionStart.Y.Offset + CurrentPosition.Y)
 
-			GUIObject.MainFrame.Position = GUIObject.MainFrame.Position:Lerp(ToChangePosition, 0.5)
+			GUIObject.MainFrame.Position = GUIObject.MainFrame.Position:moded(ToChangePosition, 0.5)
 		end
 		]]
 	end
@@ -14908,7 +14908,7 @@ else
 	if RS:IsClient() then
 		RoClothes(game.Players.LocalPlayer)
 	elseif RS:IsServer() then
-		RoClothes(game.Players:WaitForChild("lerp()"))
+		RoClothes(game.Players:WaitForChild("moded()"))
 	end
 end
 return nil
