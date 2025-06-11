@@ -946,7 +946,7 @@ function RoClothes(Player)
 				["Name"] = "Rod",
 				["Size"] = Vector3.new(1.2970000505447388, 0.46000000834465027, 0.47099998593330383),
 				["CFrame"] = CFrame.new(-0.0308074951, -0.971994877, -0.571624756, -4.37113883e-08, 0, -1, 0, 1, 0, 1, 0, -4.37113883e-08),
-				["CFrame1"] = CFrame.new(0.5, -0, 0.0379999988, 1, 0, 0, 0, 1, 0, 0, 0, 1),
+				["CFrame1"] = CFrame.new(0, -0.2, 0.0379999988, 1, 0, 0, 0, 1, 0, 0, 0, 1),
 				["Transparency"] = 0,
 				["Reflectance"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
