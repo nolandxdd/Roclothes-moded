@@ -16,7 +16,6 @@
 
 	
 	/ ＲＯＣＬＯＴＨＥＳ
-	Version - 0.7.3:lerp()
 	
 	| RoClothes Is Exploiting Script, Allowing Player To Have Nude BodyParts/Clothes
 	Can Be Use On Any Executor
