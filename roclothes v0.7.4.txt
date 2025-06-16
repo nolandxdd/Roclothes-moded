@@ -18,7 +18,7 @@
 	
 	
 	original version 0.7
-	local version 0.7.4
+	local version 0.7.4:lerp()
 		
 
 
