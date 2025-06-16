@@ -1,8 +1,7 @@
 ﻿--[[	
 
 	/ ＲＯＣＬＯＴＨＥＳ
-	Version - 0.7.4:lerp()
-	Link - discord.gg/HBzvWE6Rp3
+	Version - 0.7.4
 	
 	| RoClothes is a Client-Sided Exploiting Script, that allows the player to have nude BodyParts/Clothes
 	Can be used on any executor
@@ -19,7 +18,7 @@
 	
 	
 	original version 0.7
-	local version 0.7.4:lerp()
+	local version 0.7.4
 		
 
 
@@ -435,7 +434,7 @@ function RoClothes(Player)
 	local TS = game:GetService("TweenService")
 	local MPS = game:GetService("MarketplaceService")
 
-	local CVersion = "0.7.4:lerp()"
+	local CVersion = "0.7.4"
 
 	local Method = 1
 	local MaxMethod = 3
