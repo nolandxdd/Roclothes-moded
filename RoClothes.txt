@@ -8219,12 +8219,12 @@ function RoClothes(Player)
 		},
 		["My bundle"] = {
 			["Body Color"] = {
-				["HeadColor3"] = Color3.fromRGB(255, 204, 153),
-				["LeftArmColor3"] = Color3.fromRGB(255, 204, 153),
-				["RightArmColor3"] = Color3.fromRGB(255, 204, 153),
-				["LeftLegColor3"] = Color3.fromRGB(255, 204, 153),
-				["RightLegColor3"] = Color3.fromRGB(255, 204, 153),
-				["TorsoColor3"] = Color3.fromRGB(255, 204, 153),
+				["HeadColor3"] = Color3.fromRGB(231, 171, 133),
+				["LeftArmColor3"] = Color3.fromRGB(231, 171, 133),
+				["RightArmColor3"] = Color3.fromRGB(231, 171, 133),
+				["LeftLegColor3"] = Color3.fromRGB(231, 171, 133),
+				["RightLegColor3"] = Color3.fromRGB(231, 171, 133),
+				["TorsoColor3"] = Color3.fromRGB(231, 171, 133),
 			},
 			["Clothes"] = {
 				["Shirt"] = 11590619516,					["Pants"] = 4095975153
